@@ -1,0 +1,39 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 22-Jul-2023, 2:41:11 pm
+    Author     : rajat
+*/
+
+body
+{
+/*    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(50,50,50,0.8);
+    background-blend-mode: multiply;*/
+    background-color:white;
+}
+.col-bg
+{
+/*    background-color: rgba(50,50,50,0.5);*/
+}
+.my-div
+{
+    transition:0.3s;
+}
+.my-div:hover
+{
+    transform: scale(1.02);
+    transition:0.3s;
+    cursor: pointer;
+}
+.template-img
+{
+    width:20rem;
+    height:30rem;
+}
